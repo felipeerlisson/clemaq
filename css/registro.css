@@ -1,0 +1,33 @@
+.bg-gradient-primary {
+    background-color: #0A7771;
+    background-image: linear-gradient(180deg, #40CFC5 25%, #3E7A72  100%);
+    background-size: cover;
+  }
+
+  
+#imgRegistro{
+    background-image: url("../images/3.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.g-signin2 {
+  display: inline-block;
+  padding: 12px 6px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1,428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparente;
+  border-radius: 4px;
+  --webkit-User-select: none;
+	 -moz-user-select: none;
+	  -ms-user-select: none;
+	   -o-user-select: none;
+		  user-select: none;
+}
